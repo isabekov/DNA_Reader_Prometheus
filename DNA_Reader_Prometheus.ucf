@@ -1,0 +1,21 @@
+#PACE: Start of PACE I/O Pin Assignments
+NET "Trigger"  LOC = "P37";   # BTN-1 (Button)
+NET "Half"  LOC = "P15"   ;   # S0 (Switch)
+NET "CLK"  LOC = "P40"    ;   # 50 MHz (Clock)
+
+NET "Anodes<0>"  LOC = "P50"  ;
+NET "Anodes<1>"  LOC = "P49"  ;
+NET "Anodes<2>"  LOC = "P52"  ;
+NET "Anodes<3>"  LOC = "P56"  ;
+NET "Anodes<4>"  LOC = "P59"  ;
+NET "Anodes<5>"  LOC = "P57"  ;
+NET "Anodes<6>"  LOC = "P60"  ;
+NET "Anodes<7>"  LOC = "P61"  ;
+
+NET "SevenSegments<0>"  LOC = "P64"  ; # G
+NET "SevenSegments<1>"  LOC = "P98"  ; # F
+NET "SevenSegments<2>"  LOC = "P73"  ; # E
+NET "SevenSegments<3>"  LOC = "P72"  ; # D
+NET "SevenSegments<4>"  LOC = "P65"  ; # C
+NET "SevenSegments<5>"  LOC = "P62"  ; # B
+NET "SevenSegments<6>"  LOC = "P71"  ; # A
