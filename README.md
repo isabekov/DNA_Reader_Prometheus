@@ -7,7 +7,7 @@ Use: Pess button "BTN1" to load DNA of the device into a register, least signifi
 ![MSB](DNA_Part1.jpg "Most significant bits of the DNA")
 ![LSB](DNA_Part2.jpg "Least significant bits of the DNA")
 
-Copyright (C) 2017 Altynbek Isabekov
+Copyleft (C) 2017
 
 DNA_Reader_Prometheus is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
 
